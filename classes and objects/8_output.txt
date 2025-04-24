@@ -1,0 +1,6 @@
+Opening file: Before file can be read from or written to, it must be opened. This establishes connection between program and file. Different modes can be specified when opening file, such as read mode ("r"), write mode ("w"), or ppend mode ("").
+Reading from file: This operation retrieves dat from file and stores it in program variables.
+Writing to file: This operation writes dat from program variables to file.
+Closing file: fter all operations are complete, file must be closed to release resources used by program.
+Creating file: Creating new file if it doesn't lready exist.
+Deleting file: Removing file from file system.
